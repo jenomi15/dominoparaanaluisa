@@ -1245,7 +1245,7 @@ int main()
                 }
 
 
-                printf("TURNO DO JOGADOR 1 \n\n");
+                printf("RODADA DO JOGADOR 1 \n\n");
 
 
                 imprimirPecas(jogador1, indexJogador1, "jogador1");
